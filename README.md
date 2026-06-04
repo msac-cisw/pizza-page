@@ -2,6 +2,10 @@
 
 CISB 11 Information for Pizza Project. You can use this text for your project or create your own.
 
+Start here: [Pizza Page Instructions](instructions.md)
+
+The instructions walk you through creating `index.html`, adding pizza text and an image, linking `style.css`, and using an AI prompt to create a visual style.
+
 Copy the following information into your HTML webpage. Use CSS to make it look great.
 
 ---
