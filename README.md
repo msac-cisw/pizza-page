@@ -1,6 +1,4 @@
-# pizza-page
-
-CISB 11 starter materials for the Pizza Page classroom demo.
+# The Magic of Pizza
 
 Use this repo to build a plain HTML page, add pizza content and images, connect a CSS stylesheet, and then use AI to experiment with different visual styles.
 
